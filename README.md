@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=f7f5f5&text=DATA_LAB&fontColor=C7A48B&fontSize=60&desc=kangho's%20GitHub%20Profile&descSize=22&descAlign=80&descAlignY=80)
-### Hi there 👋
+### 안녕하세요 무한한 데이터로 생계와 꿈을 찾고있는 허강호입니다 빅데이터,AI쪽 공부를 주로 학습하고 있습니다.👋
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
