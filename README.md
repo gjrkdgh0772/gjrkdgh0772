@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=f7f5f5&text=DATA_LAB&fontColor=C7A48B&fontSize=60&desc=kangho's%20GitHub%20Profile&descSize=22&descAlign=80&descAlignY=80)
 ### Hi there 👋
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <!--
 **gjrkdgh0772/gjrkdgh0772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
