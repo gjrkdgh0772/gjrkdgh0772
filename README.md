@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=f7f5f5&text=DATA_LAB&fontColor=C7A48B&fontSize=60&desc=kangho's%20GitHub%20Profile&descSize=22&descAlign=80&descAlignY=80)
 <div align=center>
 <h2>안녕하세요!
-<br>가치있는 데이터기술로 생계와 꿈을 찾고있는 허강호입니다</div>
+<br>가치있는 데이터기술로 생계와 꿈을 찾고있는 허강호입니다
 <br>무한한 데이터로 생계와 꿈을 찾고있는 허강호입니다
 <br>빅데이터,AI쪽 기술을 주로 학습,배워나가고있습니다!
 <br>습득한 다양한 기술, 프로젝트등 관심있게 봐주시면 좋겠습니다 감사합니다👋
