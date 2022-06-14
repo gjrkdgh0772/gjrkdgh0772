@@ -8,7 +8,7 @@
 </h5></div>
   
   
-<div align=center><h3>📚 STACKS</h3></div>
+<div align=center><h4>📚 learning skills</h4></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
