@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=f7f5f5&text=DATA_LAB&fontColor=C7A48B&fontSize=60&desc=kangho's%20GitHub%20Profile&descSize=22&descAlign=80&descAlignY=80)
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <!--
 **gjrkdgh0772/gjrkdgh0772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
