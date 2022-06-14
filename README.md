@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
   
-<div>http://mazassumnida.wtf/api/v1/generate_badge?boj={username}</div> 
+<div>http://mazassumnida.wtf/api/v1/generate_badge?boj=kangho7009</div> 
 <!--
 **gjrkdgh0772/gjrkdgh0772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
