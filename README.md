@@ -4,9 +4,12 @@
 <br>가치있는 데이터기술로 생계와 꿈을 찾고있는 허강호입니다
 <br>빅데이터,AI쪽 기술을 주로 학습,배워나가고있습니다!
 <br>습득한 다양한 기술, 프로젝트등 관심있게 봐주시면 좋겠습니다 감사합니다👋
-</h5></div>
+</h5>
+
+<div align=center><h4>👨‍💻 포트폴리오 주소입니다</h4>
+  <h4>https://drive.google.com/file/d/1hkYVJwEZa6bpBVAh2jsqXvV5hm1U316L/view</h4></div></div>
   
-  
+ 
 <div align=center><h4>📚 learning skills</h4></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
